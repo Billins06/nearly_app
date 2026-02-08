@@ -48,7 +48,7 @@ You can start developing by editing the files inside the **app** directory. This
 
 When you're ready, run:
 
-## Objectifs MVP (version 1)
+## Objectif MVP (version 1)
 
 ```bash
 npm run reset-project
